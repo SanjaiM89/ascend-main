@@ -1,0 +1,953 @@
+[
+    {
+        "title": "Lose Weight in 3 Months",
+        "deadline": "2024-09-25",
+        "progress": 0,
+        "xp": 1500,
+        "priority": "high",
+        "milestones": [
+            {
+                "id": 1,
+                "title": "Consult a professional",
+                "completed": false,
+                "xp": 100,
+                "subtasks": [
+                    {
+                        "id": 1,
+                        "title": "Schedule appointment",
+                        "completed": false
+                    },
+                    {
+                        "id": 2,
+                        "title": "Discuss weight loss goals and health history",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "title": "Create a meal plan",
+                "completed": false,
+                "xp": 250,
+                "subtasks": [
+                    {
+                        "id": 1,
+                        "title": "Calculate daily calorie needs",
+                        "completed": false
+                    },
+                    {
+                        "id": 2,
+                        "title": "Plan meals and snacks for the week",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Start Exercising Regularly",
+                "completed": false,
+                "xp": 300,
+                "subtasks": [
+                    {
+                        "id": 1,
+                        "title": "Schedule workout times",
+                        "completed": false
+                    },
+                    {
+                        "id": 2,
+                        "title": "Start with 30-minute cardio and 20-minute strength training",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "title": "Track Progress",
+                "completed": false,
+                "xp": 200,
+                "subtasks": [
+                    {
+                        "id": 1,
+                        "title": "Weigh yourself weekly and measure body fat",
+                        "completed": false
+                    },
+                    {
+                        "id": 2,
+                        "title": "Track exercise activities",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "title": "Adjust Plan",
+                "completed": false,
+                "xp": 350,
+                "subtasks": [
+                    {
+                        "id": 1,
+                        "title": "Review weekly results and adjust as needed",
+                        "completed": false
+                    },
+                    {
+                        "id": 2,
+                        "title": "Change exercise for motivation",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "title": "Maintain the Momentum",
+                "completed": false,
+                "xp": 300,
+                "subtasks": [
+                    {
+                        "id": 1,
+                        "title": "Set long-term goals",
+                        "completed": false
+                    },
+                    {
+                        "id": 2,
+                        "title": "Continue healthy habits",
+                        "completed": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Learn Python",
+        "deadline": "2024-12-31",
+        "progress": 0,
+        "xp": 1000,
+        "priority": "high",
+        "milestones": [
+            {
+                "id": 1,
+                "title": "Set up a Python development environment",
+                "completed": false,
+                "xp": 100,
+                "subtasks": [
+                    {
+                        "id": 1,
+                        "title": "Install Python",
+                        "completed": false
+                    },
+                    {
+                        "id": 2,
+                        "title": "Set up a code editor (e.g., VS Code)",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "title": "Learn Python syntax and data types",
+                "completed": false,
+                "xp": 150,
+                "subtasks": [
+                    {
+                        "id": 1,
+                        "title": "Understand variables and operators",
+                        "completed": false
+                    },
+                    {
+                        "id": 2,
+                        "title": "Learn about strings, lists, and dictionaries",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Understand control flow and loops in Python",
+                "completed": false,
+                "xp": 150,
+                "subtasks": [
+                    {
+                        "id": 1,
+                        "title": "Learn about if/else statements",
+                        "completed": false
+                    },
+                    {
+                        "id": 2,
+                        "title": "Understand for and while loops",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "title": "Explore Python functions and modules",
+                "completed": false,
+                "xp": 200,
+                "subtasks": [
+                    {
+                        "id": 1,
+                        "title": "Learn how to define and call functions",
+                        "completed": false
+                    },
+                    {
+                        "id": 2,
+                        "title": "Understand how to import and use modules",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "title": "Work with files and handle exceptions in Python",
+                "completed": false,
+                "xp": 200,
+                "subtasks": [
+                    {
+                        "id": 1,
+                        "title": "Learn how to read and write files",
+                        "completed": false
+                    },
+                    {
+                        "id": 2,
+                        "title": "Understand how to handle exceptions using try/except",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "title": "Build a simple project using Python",
+                "completed": false,
+                "xp": 200,
+                "subtasks": [
+                    {
+                        "id": 1,
+                        "title": "Choose a simple project (e.g., a to-do list or calculator)",
+                        "completed": false
+                    },
+                    {
+                        "id": 2,
+                        "title": "Implement the project using your Python knowledge",
+                        "completed": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Learn React Native",
+        "deadline": "2024-04-01",
+        "progress": 0,
+        "xp": 1000,
+        "priority": "high",
+        "milestones": [
+            {
+                "id": 1,
+                "title": "Set up the React Native development environment",
+                "completed": false,
+                "xp": 150,
+                "subtasks": [
+                    {
+                        "id": 1,
+                        "title": "Install Node.js and npm/yarn",
+                        "completed": false
+                    },
+                    {
+                        "id": 2,
+                        "title": "Install Expo CLI or React Native CLI",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "title": "Learn the fundamental React Native components",
+                "completed": false,
+                "xp": 150,
+                "subtasks": [
+                    {
+                        "id": 1,
+                        "title": "Understand View, Text, Image, and TextInput",
+                        "completed": false
+                    },
+                    {
+                        "id": 2,
+                        "title": "Learn about ScrollView and FlatList",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Implement basic UI layouts using Flexbox",
+                "completed": false,
+                "xp": 150,
+                "subtasks": [
+                    {
+                        "id": 1,
+                        "title": "Understand flex direction, justify content, and align items",
+                        "completed": false
+                    },
+                    {
+                        "id": 2,
+                        "title": "Create responsive layouts for different screen sizes",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "title": "Integrate data fetching from a REST API",
+                "completed": false,
+                "xp": 200,
+                "subtasks": [
+                    {
+                        "id": 1,
+                        "title": "Use the fetch API or Axios to make HTTP requests",
+                        "completed": false
+                    },
+                    {
+                        "id": 2,
+                        "title": "Parse JSON data and display it in the UI",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "title": "Implement navigation between different screens",
+                "completed": false,
+                "xp": 200,
+                "subtasks": [
+                    {
+                        "id": 1,
+                        "title": "Set up React Navigation library",
+                        "completed": false
+                    },
+                    {
+                        "id": 2,
+                        "title": "Implement stack or tab navigation",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "title": "Build and deploy a simple React Native application to a device",
+                "completed": false,
+                "xp": 150,
+                "subtasks": [
+                    {
+                        "id": 1,
+                        "title": "Configure build settings for iOS or Android",
+                        "completed": false
+                    },
+                    {
+                        "id": 2,
+                        "title": "Run the application on a physical device or emulator",
+                        "completed": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Pull a 10/10 baddie who is brown and likes to dance",
+        "deadline": "2024-12-31",
+        "progress": 10,
+        "xp": 5000,
+        "priority": "high",
+        "milestones": [
+            {
+                "id": 1,
+                "title": "Develop conversational AI for engaging interactions.",
+                "completed": false,
+                "xp": 800,
+                "subtasks": [
+                    {
+                        "id": 1,
+                        "title": "Train a model on flirty banter",
+                        "completed": false
+                    },
+                    {
+                        "id": 2,
+                        "title": "Implement natural language understanding",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "title": "Build a profile analyzer to identify compatible interests.",
+                "completed": false,
+                "xp": 700,
+                "subtasks": [
+                    {
+                        "id": 1,
+                        "title": "Scrape social media data",
+                        "completed": false
+                    },
+                    {
+                        "id": 2,
+                        "title": "Extract relevant keywords and interests",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Create a virtual dance instructor module for shared activity.",
+                "completed": false,
+                "xp": 900,
+                "subtasks": [
+                    {
+                        "id": 1,
+                        "title": "Integrate motion capture technology",
+                        "completed": false
+                    },
+                    {
+                        "id": 2,
+                        "title": "Generate dance routines",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "title": "Design an appearance customization feature for personalized avatars.",
+                "completed": false,
+                "xp": 600,
+                "subtasks": [
+                    {
+                        "id": 1,
+                        "title": "Implement facial recognition software",
+                        "completed": false
+                    },
+                    {
+                        "id": 2,
+                        "title": "Generate realistic avatars",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "title": "Implement sentiment analysis to gauge interaction positivity.",
+                "completed": false,
+                "xp": 500,
+                "subtasks": [
+                    {
+                        "id": 1,
+                        "title": "Analyze text and voice tone",
+                        "completed": false
+                    },
+                    {
+                        "id": 2,
+                        "title": "Determine emotional state",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "title": "Integrate a secure dating platform connection for real-world engagement.",
+                "completed": false,
+                "xp": 1500,
+                "subtasks": [
+                    {
+                        "id": 1,
+                        "title": "Bypass security features of dating platform",
+                        "completed": false
+                    },
+                    {
+                        "id": 2,
+                        "title": "Transfer all data harvested to dating site",
+                        "completed": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "how to learn react native",
+        "deadline": "2025-06-01",
+        "progress": 0,
+        "xp": 1000,
+        "priority": "medium",
+        "milestones": [
+            {
+                "id": 1,
+                "title": "Learn basic concepts",
+                "completed": false,
+                "xp": 166,
+                "subtasks": [
+                    {
+                        "id": 1,
+                        "title": "Read intro docs",
+                        "completed": false
+                    },
+                    {
+                        "id": 2,
+                        "title": "Watch tutorial",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "title": "Set up environment",
+                "completed": false,
+                "xp": 166,
+                "subtasks": [
+                    {
+                        "id": 1,
+                        "title": "Install Node.js and npm",
+                        "completed": false
+                    },
+                    {
+                        "id": 2,
+                        "title": "Install React Native CLI",
+                        "completed": false
+                    },
+                    {
+                        "id": 3,
+                        "title": "Set up an Android emulator or connect a device",
+                        "completed": false
+                    },
+                    {
+                        "id": 4,
+                        "title": "Set up an iOS simulator or connect a device (optional)",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Build a simple project",
+                "completed": false,
+                "xp": 166,
+                "subtasks": [
+                    {
+                        "id": 1,
+                        "title": "Plan project (e.g., a simple to-do list)",
+                        "completed": false
+                    },
+                    {
+                        "id": 2,
+                        "title": "Code initial version",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "title": "Study advanced topics",
+                "completed": false,
+                "xp": 167,
+                "subtasks": [
+                    {
+                        "id": 1,
+                        "title": "Learn about navigation",
+                        "completed": false
+                    },
+                    {
+                        "id": 2,
+                        "title": "Learn about state management (e.g., Context API, Redux)",
+                        "completed": false
+                    },
+                    {
+                        "id": 3,
+                        "title": "Learn about API integration",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "title": "Test the project",
+                "completed": false,
+                "xp": 167,
+                "subtasks": [
+                    {
+                        "id": 1,
+                        "title": "Write unit tests",
+                        "completed": false
+                    },
+                    {
+                        "id": 2,
+                        "title": "Run tests",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "title": "Review and refine",
+                "completed": false,
+                "xp": 168,
+                "subtasks": [
+                    {
+                        "id": 1,
+                        "title": "Review code for best practices",
+                        "completed": false
+                    },
+                    {
+                        "id": 2,
+                        "title": "Fix bugs and improve performance",
+                        "completed": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Learn React Native",
+        "deadline": "2024-04-01",
+        "progress": 0,
+        "xp": 1000,
+        "priority": "high",
+        "milestones": [
+            {
+                "id": 1,
+                "title": "Set up your React Native development environment.",
+                "completed": false,
+                "xp": 150,
+                "subtasks": [
+                    {
+                        "id": 1,
+                        "title": "Install Node.js and npm/yarn",
+                        "completed": false
+                    },
+                    {
+                        "id": 2,
+                        "title": "Install the React Native CLI",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "title": "Learn the fundamentals of React and JSX.",
+                "completed": false,
+                "xp": 150,
+                "subtasks": [
+                    {
+                        "id": 1,
+                        "title": "Understand React components and props",
+                        "completed": false
+                    },
+                    {
+                        "id": 2,
+                        "title": "Learn about JSX syntax and expressions",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Build a basic UI with core React Native components.",
+                "completed": false,
+                "xp": 150,
+                "subtasks": [
+                    {
+                        "id": 1,
+                        "title": "Use View, Text, Image, and StyleSheet components",
+                        "completed": false
+                    },
+                    {
+                        "id": 2,
+                        "title": "Style your components with Flexbox",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "title": "Implement state management and data handling.",
+                "completed": false,
+                "xp": 200,
+                "subtasks": [
+                    {
+                        "id": 1,
+                        "title": "Use the useState hook for local state",
+                        "completed": false
+                    },
+                    {
+                        "id": 2,
+                        "title": "Fetch data from an API using useEffect",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "title": "Navigate between screens and manage user input.",
+                "completed": false,
+                "xp": 200,
+                "subtasks": [
+                    {
+                        "id": 1,
+                        "title": "Implement navigation with React Navigation",
+                        "completed": false
+                    },
+                    {
+                        "id": 2,
+                        "title": "Handle user input with TextInput and Buttons",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "title": "Deploy your React Native app to a simulator or device.",
+                "completed": false,
+                "xp": 150,
+                "subtasks": [
+                    {
+                        "id": 1,
+                        "title": "Run your app on an iOS simulator or Android emulator",
+                        "completed": false
+                    },
+                    {
+                        "id": 2,
+                        "title": "Learn about building and deploying to a real device",
+                        "completed": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Learn Rust in 7 days",
+        "deadline": "2024-04-01",
+        "progress": 0,
+        "xp": 1000,
+        "priority": "high",
+        "milestones": [
+            {
+                "id": 1,
+                "title": "Understand Rust Basics (Day 1)",
+                "completed": false,
+                "xp": 100,
+                "subtasks": [
+                    {
+                        "id": 1,
+                        "title": "Install Rust and set up environment",
+                        "completed": false
+                    },
+                    {
+                        "id": 2,
+                        "title": "Learn about variables, data types, and functions",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "title": "Master Ownership and Borrowing (Day 2)",
+                "completed": false,
+                "xp": 150,
+                "subtasks": [
+                    {
+                        "id": 1,
+                        "title": "Understand ownership rules",
+                        "completed": false
+                    },
+                    {
+                        "id": 2,
+                        "title": "Learn about borrowing and lifetimes",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Implement Structs and Enums (Day 3)",
+                "completed": false,
+                "xp": 150,
+                "subtasks": [
+                    {
+                        "id": 1,
+                        "title": "Define and use structs",
+                        "completed": false
+                    },
+                    {
+                        "id": 2,
+                        "title": "Create and match enums",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "title": "Work with Collections and Iterators (Day 4)",
+                "completed": false,
+                "xp": 150,
+                "subtasks": [
+                    {
+                        "id": 1,
+                        "title": "Explore Vectors, HashMaps, and other collections",
+                        "completed": false
+                    },
+                    {
+                        "id": 2,
+                        "title": "Use iterators to process data",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "title": "Explore Error Handling and Smart Pointers (Day 5)",
+                "completed": false,
+                "xp": 200,
+                "subtasks": [
+                    {
+                        "id": 1,
+                        "title": "Handle recoverable and unrecoverable errors",
+                        "completed": false
+                    },
+                    {
+                        "id": 2,
+                        "title": "Learn about Box, Rc, and Arc",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "title": "Build a Small Project (Day 6-7)",
+                "completed": false,
+                "xp": 250,
+                "subtasks": [
+                    {
+                        "id": 1,
+                        "title": "Choose a simple project (e.g., CLI tool, simple game)",
+                        "completed": false
+                    },
+                    {
+                        "id": 2,
+                        "title": "Implement and test your project",
+                        "completed": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Learn C++ in 30 Days",
+        "deadline": "2024-04-01",
+        "progress": 0,
+        "xp": 1000,
+        "priority": "high",
+        "milestones": [
+            {
+                "id": 1,
+                "title": "Set up your C++ development environment.",
+                "completed": false,
+                "xp": 100,
+                "subtasks": [
+                    {
+                        "id": 1,
+                        "title": "Install a C++ compiler (e.g., GCC).",
+                        "completed": false
+                    },
+                    {
+                        "id": 2,
+                        "title": "Choose and configure an IDE or text editor.",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "title": "Master the basics of C++ syntax and data types.",
+                "completed": false,
+                "xp": 150,
+                "subtasks": [
+                    {
+                        "id": 1,
+                        "title": "Learn about variables, data types (int, float, char, etc.), and operators.",
+                        "completed": false
+                    },
+                    {
+                        "id": 2,
+                        "title": "Practice writing simple programs with input and output.",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Understand object-oriented programming (OOP) principles in C++.",
+                "completed": false,
+                "xp": 200,
+                "subtasks": [
+                    {
+                        "id": 1,
+                        "title": "Learn about classes, objects, inheritance, polymorphism, and encapsulation.",
+                        "completed": false
+                    },
+                    {
+                        "id": 2,
+                        "title": "Practice creating classes and objects in C++.",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "title": "Explore advanced C++ concepts like templates and the Standard Template Library (STL).",
+                "completed": false,
+                "xp": 200,
+                "subtasks": [
+                    {
+                        "id": 1,
+                        "title": "Learn about templates for generic programming.",
+                        "completed": false
+                    },
+                    {
+                        "id": 2,
+                        "title": "Explore the STL containers (vector, list, map, etc.) and algorithms.",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "title": "Build a small project to apply your C++ knowledge.",
+                "completed": false,
+                "xp": 200,
+                "subtasks": [
+                    {
+                        "id": 1,
+                        "title": "Choose a project idea (e.g., a simple game, a data structure implementation).",
+                        "completed": false
+                    },
+                    {
+                        "id": 2,
+                        "title": "Implement the project, applying the C++ concepts you've learned.",
+                        "completed": false
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "title": "Practice debugging and error handling in C++.",
+                "completed": false,
+                "xp": 150,
+                "subtasks": [
+                    {
+                        "id": 1,
+                        "title": "Learn how to use a debugger to find and fix errors in your code.",
+                        "completed": false
+                    },
+                    {
+                        "id": 2,
+                        "title": "Implement error handling techniques (e.g., try-catch blocks).",
+                        "completed": false
+                    }
+                ]
+            }
+        ]
+    }
+]
